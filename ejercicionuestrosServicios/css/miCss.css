@@ -1,0 +1,15 @@
+a { 
+padding: 40px;
+border: groove 3px; 
+border-color:red
+}
+a:hover{
+  border-color: green
+}
+body > header{ margin-top: 60px; }
+section article p{
+ padding: 2em 1em;
+ margin-bottom: 2em;
+ background-color: #e9ecef;
+ border-radius: 1em;
+}
